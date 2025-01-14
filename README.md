@@ -1,3 +1,4 @@
-#Django-Project
+# Django-Project
 
-My first django project.
+My first Django Project!
+Instagram clone
